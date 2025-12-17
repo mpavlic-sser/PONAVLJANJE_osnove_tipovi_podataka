@@ -8,8 +8,6 @@ class Program
         // JEDINSTVENI ZADATAK ZA VJEŽBU – Putovanje na drugi planet
         // ============================================================
         //
-        // Napiši C# konzolni program koji ponavlja sva znanja
-        // potrebna za rješavanje zadataka za ocjenu.
         //
         // ------------------------------------------------------------
         // 1) UNOS S KONZOLE
