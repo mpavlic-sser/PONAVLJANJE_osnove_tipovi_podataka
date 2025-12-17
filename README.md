@@ -1,6 +1,7 @@
 # PONAVLJANJE – C# ulaz/izlaz i tipovi podataka 
 
 ✅ Svaki zadatak je u svom folderu (svaki folder je poseban .NET konzolni projekt).
+
 ✅ Tekst zadatka je napisan u komentarima u Program.cs.
 
 ## Kako pokrenuti zadatak
